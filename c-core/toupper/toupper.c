@@ -1,4 +1,4 @@
-int	toupper(int c)
+int	gm_toupper(int c)
 {
 	while(c >= 'a' && c <= 'z')
 	{

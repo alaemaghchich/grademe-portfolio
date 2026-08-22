@@ -1,4 +1,4 @@
-int	tolower(int c)
+int	gm_tolower(int c)
 {
 	while (c >= 'A' && c <= 'Z')
 	{
