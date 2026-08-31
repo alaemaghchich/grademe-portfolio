@@ -9,7 +9,7 @@ int ft_strlen(char *str)
 	return i;
 }
 
-char *strdup(char *src)
+char *gm_strdup(char *src)
 {
 	int i;
 	int len;
